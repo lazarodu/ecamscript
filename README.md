@@ -1,3 +1,3 @@
-# ecamscript
+# EcmaScript
 
-Aula sobre Ecma Sript
+Aula sobre EcmaScript
